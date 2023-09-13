@@ -1,2 +1,2 @@
-# css_practice
-Jamie Park SI 339 CSS Practice 
+# hw3_simple_css
+Starter code for simple css assignment

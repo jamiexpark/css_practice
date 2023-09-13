@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Verdana;
+    background: #000000;
+    color:white; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+h1{
+    font-size: 42px;
+    align-content: center;
+    padding: 15px;
+}
+
+h2{
+    /* 30px dark gray font (#0D0D0D)  */
+    font-size: 30px;
+    color: #0D0D0D;
+
+}
+
+
+p{
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+img{
+    width: 250px;
+    align-content: center;
+    border: 10px;
+    border-color: white;
+    border-style: dashed;
+}
+
+div{
+    display: flex;
+    height: 125px;
+    padding: 20px;
+    border-radius: 3px;
+    border-color: white;
+}
